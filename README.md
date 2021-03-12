@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Getting more exp with iOS Development
-- 🌱 I’m currently learning ... Swift
+- 🌱 I’m currently learning ... Swift & UIKit
 - 👯 I’m looking to collaborate on ... iOS app development
 - 🤔 I’m looking for help with ... UIKit
 - 💬 Ask me about ...Anything
